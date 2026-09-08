@@ -77,19 +77,19 @@ Some of the areas I'm currently working on:
 ### 🔗 Let's Connect
 
 - 🌐 **Portfolio:** [peteremad.vercel.app](https://peteremad.vercel.app)
-- 💻 **GitHub:** [github.com/PeterEmad1](https://github.com/PeterEmad1)
-- 📧 **Email:** peteremad132oo5@gmail.com
+- 💻 **GitHub:** [github.com/peteremad2](https://github.com/peteremad2)
+- 📧 **Email:** peteremad232oo5@gmail.com
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PeterEmad1&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=peteremad2&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PeterEmad1&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=peteremad2&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
